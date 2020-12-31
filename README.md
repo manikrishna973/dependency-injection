@@ -1,6 +1,4 @@
 # dependency-injection
-*DI is used to delegate the object creation to the DI Frameworks like spring ,Dagger etc.
-
 *By Default a singleton scope object will be created for all the classes which are annotated as spring components
 
 *Using IOC objects creation can be outsourced and DI autowires the dependeny if its dependent bean is available as a spring bean
